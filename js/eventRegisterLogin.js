@@ -1,0 +1,1 @@
+document.getElementById("log-form").addEventListener("submit", validateLogin);
